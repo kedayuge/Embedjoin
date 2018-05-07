@@ -4,7 +4,7 @@ Paperlink:https://arxiv.org/abs/1702.00093
 
 Documentation:https://github.com/kedayuge/Embedjoin/blob/master/readme.txt
 
-Datalink:
+Data download:
 
 http://156.56.159.26/trec.txt
 
