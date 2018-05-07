@@ -2,6 +2,8 @@ EmbedJoin: Efficient Edit Similarity Joins via Embeddings
 
 Paperlink:https://arxiv.org/abs/1702.00093
 
+Documentation:https://github.com/kedayuge/Embedjoin/blob/master/readme.txt
+
 Datalink:
 
 http://156.56.159.26/trec.txt
